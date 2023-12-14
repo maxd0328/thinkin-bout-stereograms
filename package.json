@@ -1,0 +1,19 @@
+{
+  "name": "thinkin-bout-stereograms",
+  "version": "1.0.0",
+  "description": "Me when thinkin' bout stereograms",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thinkin",
+    "bout",
+    "stereograms"
+  ],
+  "author": "Max Derbenwick",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
